@@ -3,7 +3,7 @@ from telegram import Update, KeyboardButton, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
 # Path to your binary
-BINARY_PATH = "./bgmi"
+BINARY_PATH = "./KALAKUTA"
 
 # Global variables
 process = None
